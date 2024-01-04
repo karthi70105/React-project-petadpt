@@ -1,0 +1,11 @@
+/* src/components/AboutUs.css */
+.about-us-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .about-us-container img {
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
